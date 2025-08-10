@@ -14,6 +14,7 @@ make sure to change these attributes :
 you need to get location finding you need to get an api key from https://ipinfo.io/
 # Compiling
 drag and drop the py file into "pyinstaller.exe" and it will give options "--noconsole" (hidden) or with console (shows up when run)
+
 ![screenshot](https://github.com/UnafeDev/Discord-Leaker/blob/main/drag.png)
 
 or run the command : 
