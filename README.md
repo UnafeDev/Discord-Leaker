@@ -6,6 +6,9 @@ This tool/script is provided for educational purposes only and is made with pure
 
 I take no part in, nor do I endorse, any activities you choose to perform or add with this tool.
 
+# Download
+The most recent build is in releases
+
 # Editing
 make sure to change these attributes :
 
