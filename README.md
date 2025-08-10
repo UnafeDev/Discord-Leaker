@@ -9,7 +9,7 @@ I take no part in, nor do I endorse, any activities you choose to perform or add
 # Editing
 make sure to change these attributes :
 
-![screenshot](https://github.com/UnafeDev/Discord-Leaker/blob/main/image.png)
+![screenshot](https://github.com/UnafeDev/Discord-Leaker/blob/main/image1.png)
 
 you need to get location finding you need to get an api key from https://ipinfo.io/
 # Compiling
